@@ -32,10 +32,13 @@ Here are some ideas to get you started:
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
 ### Skills
-📴 React Native
-#### .Net / C# / Azure / Angular / REACT Native / JS / HTML / CSS
+
+<img src='https://github.com/krishjan05/krishjan05/blob/main/dot-net-core-7.svg' alt='dotnetcore' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/c-sharp-c-seeklogo.com.svg' alt='csharp' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/microsoft-azureicon-seeklogo.com.svg' alt='azure' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/angular-seeklogo.com.svg' alt='angular' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/ts-logo-512.svg' alt='typescript' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/javascript-js-seeklogo.com.svg' alt='javascript' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/html5-without-wordmark-color.svg' alt='html5' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/css-logo.svg' alt='css' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/react-native.svg' alt='css' height='40'>
 
 
+
+
+# Some Stats
 
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishjan05&show_icons=true&theme=radical)
 
