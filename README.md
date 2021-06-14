@@ -36,18 +36,22 @@ I have worked on development of enterprise software using following technologies
 
 <img src='https://github.com/krishjan05/krishjan05/blob/main/dot-net-core-7.svg' alt='dotnetcore' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/c-sharp-c-seeklogo.com.svg' alt='csharp' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/microsoft-azureicon-seeklogo.com.svg' alt='azure' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/angular-seeklogo.com.svg' alt='angular' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/ts-logo-512.svg' alt='typescript' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/javascript-js-seeklogo.com.svg' alt='javascript' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/html5-without-wordmark-color.svg' alt='html5' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/css-logo.svg' alt='css' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/react-native.svg' alt='reactnative' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/docker.svg' alt='docker' height='40'>
 
-Along with workign with these technologies I also continuously write blogs on these technologies, you can read them at Medium. If you any help in the above technologies, reach out to me via any channel specifies in Contact me section.
+Along with working with these technologies I also continuously write blogs about these, you can read them at [Medium](https://medium.com/@krishjan05). If you need any help in the above technologies, reach out to me via any channel specifies in [Contact me](#contact-me) section.
+
+# Certifiactions
+
+# Professional Experience
+
+# Latest Blogs
 
 
-
-
-# Some Stats
+# Some Statistics
 
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishjan05&show_icons=true&theme=radical)
 
 ![Krishna's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishjan05&show_icons=true&theme=radical)
 
-# Reach me @
+# Contact me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style="color:white;">](https://github.com/https://github.com/krishjan05)    https://github.com/https://github.com/krishjan05 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/krishna-kanhaiya-89238455//)  https://www.linkedin.com/in/krishna-kanhaiya-89238455
