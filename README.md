@@ -50,6 +50,45 @@ Along with working with these technologies I also continuously write blogs about
 
 # Professional Experience
 
+
+## [<img src="https://github.com/krishjan05/krishjan05/blob/main/DSI-Logo_PNG_2021-04-27-1.png" alt="dsilogo" height=40/>](https://www.dstrat.com/) [Dimensional Strategies Inc](https://www.dstrat.com/)
+#### Position: Software Developer
+#### Duration: Aug 2017 to June 2021
+#### Location: Mississauga, ON, Canada
+#### Roles and Resposibilities
+- Write code for cloud based SaaS applications
+- Use C#, EF6, .Net Core, Angular and React Native for web and mobile applications
+- Use Agile methodology for managing project
+- Code Web API to be used by frontend written in Angular and React Native
+- Create Angular application to consume Web API
+- Conduct Code Review and work on production deployment using Aazure Devops
+- Work on developing web applications ASP.net MVC applications and jquery
+
+## [<img src="https://github.com/krishjan05/krishjan05/blob/main/Blackberry-logo.jpg" alt="bblogo" height=40/>](https://www.blackberry.com/) [Blackberry](https://www.blackberry.com/)
+#### Position: Software Developer(Co-op)
+#### Duration: May 2017 to Aug 2017
+#### Location: Waterloo, ON, Canada
+#### Roles and Resposibilities
+- Design and code security automation tools using C#, ASP.net, JS, Knockout and KendoUI
+- Follow agile development methodology
+- Create search functionality using Lucene
+- Write Unit test for new features
+
+## [<img src="https://github.com/krishjan05/krishjan05/blob/main/nitor%20log.png" alt="nitorlogo" height=40/>](https://www.nitorinfotech.com/) [Nitor Infotech](https://www.nitorinfotech.com/)
+#### Position: Analyst
+#### Duration: April 2013 to May 2016
+#### Location: Pune. MH, India
+#### Roles and Resposibilities
+- Responsible for coding, testing and database management using C#, ASP.NET, SQL Server and Javascript
+- Used MVC for developing web application
+- Designed UI using HTML5, CSS3 and Javascript
+- Used razor view engine for generating view and pages
+- Followed Agile methodology for daily stand up meeting with team members to know the current progress of the project and raise the issue if any
+- Used Entity Framework from data access layer and database
+- Used JIRA for task management
+- Created daily status reports and weekly status report for the client.
+
+
 # Latest Blogs
 Following are my 5 latest blogs:
 - [Deploy a .Net Core Web Application to Azure Container Instance](https://medium.com/@krishjan05/deploy-a-net-core-web-application-to-azure-container-instance-b016c321b1de)
