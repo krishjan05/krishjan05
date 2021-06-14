@@ -31,9 +31,12 @@ Here are some ideas to get you started:
 
 I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-### Skills
+# Skills
+I have worked on development of enterprise software using following technologies:
 
-<img src='https://github.com/krishjan05/krishjan05/blob/main/dot-net-core-7.svg' alt='dotnetcore' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/c-sharp-c-seeklogo.com.svg' alt='csharp' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/microsoft-azureicon-seeklogo.com.svg' alt='azure' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/angular-seeklogo.com.svg' alt='angular' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/ts-logo-512.svg' alt='typescript' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/javascript-js-seeklogo.com.svg' alt='javascript' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/html5-without-wordmark-color.svg' alt='html5' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/css-logo.svg' alt='css' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/react-native.svg' alt='css' height='40'>
+<img src='https://github.com/krishjan05/krishjan05/blob/main/dot-net-core-7.svg' alt='dotnetcore' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/c-sharp-c-seeklogo.com.svg' alt='csharp' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/microsoft-azureicon-seeklogo.com.svg' alt='azure' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/angular-seeklogo.com.svg' alt='angular' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/ts-logo-512.svg' alt='typescript' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/javascript-js-seeklogo.com.svg' alt='javascript' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/html5-without-wordmark-color.svg' alt='html5' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/css-logo.svg' alt='css' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/react-native.svg' alt='reactnative' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/docker.svg' alt='docker' height='40'>
+
+Along with workign with these technologies I also continuously write blogs on these technologies, you can read them at Medium. If you any help in the above technologies, reach out to me via any channel specifies in Contact me section.
 
 
 
