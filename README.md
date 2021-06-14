@@ -29,7 +29,9 @@ Here are some ideas to get you started:
 ### Hi there 👋, I'm Krishna
 #### I'm a Full Stack Developer with 6+ years of industry experience
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+I'm a Full Stack Developer specilized in working with .Net, Azure, Angular, React Native and MSSQL. Since the inception of my carrier I have been working on C#, Js, Ts and SQL languages. In my free time I read motivation books, [blog](https://medium.com/@krishjan05) about the technology and read about the trending news on technology. I am a guys who is completely invested in technology and love to know more about it.
+
+Since, all the teams which I have been part of used Agile Methodologies. So, I am well versed and experienced in working with this methodology.
 
 # Skills
 I have worked on development of enterprise software using following technologies:
@@ -38,11 +40,23 @@ I have worked on development of enterprise software using following technologies
 
 Along with working with these technologies I also continuously write blogs about these, you can read them at [Medium](https://medium.com/@krishjan05). If you need any help in the above technologies, reach out to me via any channel specifies in [Contact me](#contact-me) section.
 
-# Certifiactions
+# Certifications
+ 
+ | [Microsoft Certified: Azure Developer Associate](https://www.credly.com/badges/a54bb419-b0d9-4e8d-a62d-b09a1351860d)   | [Microsoft Certified: Azure Fundamental](https://www.credly.com/badges/07ccd688-fa91-4b0c-9c7d-ecb69adbae7d)   | ISTQB Certified: Foundation Level Tester |
+ |  :---: | :---: | :---: |
+| [<img src="https://github.com/krishjan05/krishjan05/blob/main/microsoft-certified-azure-developer-associate.1.png" alt="azure-developer-associate" height=150 />](https://www.credly.com/badges/a54bb419-b0d9-4e8d-a62d-b09a1351860d)  | [<img src="https://github.com/krishjan05/krishjan05/blob/main/microsoft-certified-azure-fundamentals.png" alt="azure-fundamental" height=150 />](https://www.credly.com/badges/07ccd688-fa91-4b0c-9c7d-ecb69adbae7d)  | <img src="https://github.com/krishjan05/krishjan05/blob/main/istqb-logo.png" alt="azure-fundamental" height=150 />
+
+
 
 # Professional Experience
 
 # Latest Blogs
+Following are my 5 latest blogs:
+- [Deploy a .Net Core Web Application to Azure Container Instance](https://medium.com/@krishjan05/deploy-a-net-core-web-application-to-azure-container-instance-b016c321b1de)
+- [Deploying .Net Core Web App using Github Actions to Azure App Service](https://medium.com/@krishjan05/deploying-net-core-web-app-using-github-actions-to-azure-app-service-14aff9b668f1)
+- [Publishing Azure Functions to Azure using Visual Studio 2019](https://medium.com/@krishjan05/publishing-azure-functions-to-azure-using-visual-studio-2019-29adc1a03e9b)
+- [Developing Azure Functions using Visual Studio 2019](https://medium.com/@krishjan05/developing-azure-functions-using-visual-studio-2019-b32d144d3f5f)
+- [Creating IoT Hub using REST API](https://medium.com/@krishjan05/creating-iot-hub-using-rest-api-675851e4427)
 
 
 # Some Statistics
