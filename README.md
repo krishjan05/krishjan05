@@ -117,10 +117,16 @@ Do clpa for blogs you liked and follow me!
 ![Krishna's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishjan05&show_icons=true&theme=radical)
 
 # Contact me
-[<img src='https://github.com/krishjan05/krishjan05/blob/main/github-logo.png' alt='github' height='40'>](https://github.com/https://github.com/krishjan05)    https://github.com/https://github.com/krishjan05 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/krishna-kanhaiya-89238455//)  https://www.linkedin.com/in/krishna-kanhaiya-89238455
+You can reach me at [krishjan05@gmail.com](mailto:krishjan05@gmail.com) or conntect through any of the following platforms:
+
+[<img src='https://github.com/krishjan05/krishjan05/blob/main/github-logo.png' alt='github' height='40'>](https://github.com/https://github.com/krishjan05)    [<img src='https://github.com/krishjan05/krishjan05/blob/main/Linkedin-Logo.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/krishna-kanhaiya-89238455//)  
+
+
+https://www.linkedin.com/in/krishna-kanhaiya-89238455
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/krishjan05)  https://twitter.com/krishjan05
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg' alt='medium' height='40'>](https://medium.com/@krishjan05) https://medium.com/@krishjan05
+
+Don't forget to follow me on any or all of the above platforms.
