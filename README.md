@@ -120,7 +120,7 @@ Do clpa for blogs you liked and follow me!
 
 You can reach me at [krishjan05@gmail.com](mailto:krishjan05@gmail.com) or conntect through any of the following platforms:
 
-[<img src='https://github.com/krishjan05/krishjan05/blob/main/github-logo.png' alt='github' height='40'>](https://github.com/https://github.com/krishjan05)    [<img src='https://github.com/krishjan05/krishjan05/blob/main/Linkedin-Logo.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/krishna-kanhaiya-89238455//)  [<img src='https://github.com/krishjan05/krishjan05/blob/main/twitter-Logo.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/krishjan05)
+[<img src='https://github.com/krishjan05/krishjan05/blob/main/github-logo.png' alt='github' height='40'>](https://github.com/krishjan05)    [<img src='https://github.com/krishjan05/krishjan05/blob/main/Linkedin-Logo.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/krishna-kanhaiya-89238455//)  [<img src='https://github.com/krishjan05/krishjan05/blob/main/twitter-Logo.png' alt='twitter' height='40'>](https://twitter.com/krishjan05)
 [<img src='https://github.com/krishjan05/krishjan05/blob/main/medium-Logo.png' alt='medium' height='40'>](https://medium.com/@krishjan05)
 
 Don't forget to follow me on any or all of the above platforms.
