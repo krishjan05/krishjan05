@@ -27,20 +27,20 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋, I'm Krishna
-#### I'm a Full Stack Developer with 6+ years of industry experience
+#### I'm a Full Stack Developer with 7+ years of industry experience
 
-I'm a Full Stack Developer specilized in working with .Net, Azure, Angular, React Native and MSSQL. Since the inception of my carrier I have been working on C#, Js, Ts and SQL languages. In my free time I read motivation books, [blog](https://medium.com/@krishjan05) about the technology and read about the trending news on technology. I am a guys who is completely invested in technology and love to know more about it.
+I'm a Full Stack Developer specilized in working with .Net, Azure, Angular, React Native and MSSQL. Since the inception of my carrier I have been working on C#, Javascript, Typescript and SQL languages. In my free time I read motivation books, [blog](https://medium.com/@krishjan05) and read about the technology and it's trending news. I am completely invested in technology and love to know more about it.
 
-Since, all the teams which I have been part of used Agile Methodologies. So, I am well versed and experienced in working with this methodology.
+Since, all the teams which I have been part of used Agile Methodologies. So, I am well versed and experienced in working with Agile methodology.
 
 # Skills
-I have worked on development of enterprise software using following technologies:
+I have worked on development of enterprise software based on following technologies:
 
 <img src='https://github.com/krishjan05/krishjan05/blob/main/dot-net-core-7.svg' alt='dotnetcore' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/c-sharp-c-seeklogo.com.svg' alt='csharp' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/microsoft-azureicon-seeklogo.com.svg' alt='azure' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/angular-seeklogo.com.svg' alt='angular' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/ts-logo-512.svg' alt='typescript' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/javascript-js-seeklogo.com.svg' alt='javascript' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/html5-without-wordmark-color.svg' alt='html5' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/css-logo.svg' alt='css' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/react-native.svg' alt='reactnative' height='40'> <img src='https://github.com/krishjan05/krishjan05/blob/main/docker.svg' alt='docker' height='40'>
 <!--
 Along with working with these technologies I also continuously write blogs about these, you can read them at [Medium](https://medium.com/@krishjan05). If you need any help in the above technologies, reach out to me via any channel specifies in [Contact me](#contact-me) section. -->
 
-Along with above mentioned technologies I have also worked on following technologies and tools:
+Along with above technologies I have also worked on following technologies and tools:
 - Azure Devops
 - Entity Framework
 - Git
@@ -48,6 +48,10 @@ Along with above mentioned technologies I have also worked on following technolo
 - Node
 - MSSQL
 - Azure IoT
+- jQuery
+- Expo CLI
+- Continuos Integration(CI)
+- Continuous Deployment(CD)
 
 # Certifications
  
@@ -66,20 +70,20 @@ Along with above mentioned technologies I have also worked on following technolo
 #### Location: Mississauga, ON, Canada
 #### Roles and Resposibilities
 - Write code for cloud based SaaS applications
-- Use C#, EF6, .Net Core, Angular and React Native for web and mobile applications
+- Use C#, Entity Framework, .Net Core, Angular and React Native for developing Web and Mobile applications
 - Use Agile methodology for managing project
 - Code Web API to be used by frontend written in Angular and React Native
-- Create Angular application to consume Web API
+- Create Angular application to consume Web API and showing data in presentable manner
 - Conduct Code Review and work on production deployment using Aazure Devops
-- Work on developing web applications ASP.net MVC applications and jquery
+- Work on developing web applications ASP.NET MVC applications and jQuery
 
 ## [<img src="https://github.com/krishjan05/krishjan05/blob/main/Blackberry-logo.jpg" alt="bblogo" height=40/>](https://www.blackberry.com/) [Blackberry](https://www.blackberry.com/)
 #### Position: Software Developer(Co-op)
 #### Duration: May 2017 to Aug 2017
 #### Location: Waterloo, ON, Canada
 #### Roles and Resposibilities
-- Design and code security automation tools using C#, ASP.net, JS, Knockout and KendoUI
-- Follow agile development methodology
+- Design and code security automation tools using C#, ASP.Net, JS, Knockout and KendoUI
+- Follow Agile software development methodology
 - Create search functionality using Lucene
 - Write Unit test for new features
 
